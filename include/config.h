@@ -11,13 +11,11 @@
     #define PUSH_BUTTON_PIN 4
     #define LED_ALIVE_PIN 13
     #define LED_SIGNAL_PIN 5
-    #define ADC_ALERT_PIN 3
 #else
     #define BAUD_RATE 115200
     #define PUSH_BUTTON_PIN 0
     #define LED_ALIVE_PIN 2
-    #define LED_SIGNAL_PIN 17
-    #define ADC_ALERT_PIN 16
+    #define LED_SIGNAL_PIN 23
 #endif
 
 
